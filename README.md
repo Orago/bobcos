@@ -10,3 +10,5 @@ I (Orago) did not create Bobcos, but rather chose to opensource this project as 
 Since I didn't make this code I cannot gurantee there is no malware or rat.
 Use this project at your own discretion.
 ```
+
+https://creativecommons.org/licenses/by-nc/4.0/deed.en
